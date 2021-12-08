@@ -1,1 +1,2 @@
 This is test file form gcpbatch2
+this is other test line
